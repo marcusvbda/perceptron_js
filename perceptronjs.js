@@ -1,5 +1,5 @@
-function Perceptron(opts) {
-    if (this === global) return new Perceptron(opts);
+function Perceptronjs(opts) {
+    if (this === global) return new Perceptronjs(opts);
   
     if (!opts) opts = {}
   
@@ -87,4 +87,4 @@ function Perceptron(opts) {
     return api;
   }
   
-  module.exports = Perceptron
+  module.exports = Perceptronjs
