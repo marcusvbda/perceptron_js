@@ -2,7 +2,7 @@
   "name": "perceptron_js",
   "version": "1.0.0",
   "description": "",
-  "main": "perceptron.js",
+  "main": "perceptronjs.js",
   "scripts": {
     "test": "node test.js"
   },
