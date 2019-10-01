@@ -1,0 +1,19 @@
+{
+  "name": "perceptron_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "perceptron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusvbda/perceptron_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusvbda/perceptron_js/issues"
+  },
+  "homepage": "https://github.com/marcusvbda/perceptron_js#readme"
+}
