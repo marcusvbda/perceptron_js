@@ -1,4 +1,8 @@
 ```
+$ npm i perceptron_js --save
+```
+
+```
 const Perceptronjs = require("./Perceptronjs")
 
 var per = new Perceptronjs({debug:false})
